@@ -4,4 +4,4 @@
 
 #### Solution: The goal is to compare #of managers by gender for each given year starting 1990. 
 
-### Visually compare the proportional relationship between the quantities examined
+#### The way to represent the visualization of the problem is to visually compare the proportional relationship between the quantities examined. The reason for using active column is to differentiate an employee being active in a given year. 
