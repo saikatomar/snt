@@ -7,5 +7,5 @@ In this section of the portfolio the main target is to represent the data analys
 
 The SQL data base as been gathered from Git Employee schema. 
 
-<img scr="snt-combine/Employees data.png">
+<img scr="image/Employees data.png">
 ![](snt-combine/Employees data.png)
