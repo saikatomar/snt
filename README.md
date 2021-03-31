@@ -7,4 +7,4 @@
 
 ### The SQL data base as been gathered from Git Employee schema. 
 
-![](employees_db.pdf)
+![](Employees data.png)
