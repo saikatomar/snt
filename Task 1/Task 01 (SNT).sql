@@ -25,4 +25,4 @@ FROM
 		JOIN
 	t_dept_emp de ON de.emp_no = e.emp_no
 GROUP BY Calendar_Year, e.gender
-HAVING Calendar_year >= 1990;
+HAVING Calendar_year >= 1990; 
