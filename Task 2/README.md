@@ -6,5 +6,5 @@ Solution: The goal is to compare # of active male managers vs # of active female
 
 The way to represent the visualization of this problem is to visually compare the proportional relationship between the quantities examined. The reason for using active column is to differentiate an employee being active in a given year. 
 
-Please see the tableau link for the visualization of the solution at 
+Please check the .sql file for the code and below link for interactive tableau visualization:
 https://public.tableau.com/profile/saikat.omar.khan#!/vizhome/Task2_16172166170300/Chart2?publish=yes
