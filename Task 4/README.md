@@ -5,3 +5,5 @@
 ### Finally, visualize the obtained result-set in Tableau as a double bar chart. 
 
 [Also, it was informed that "that have not been many people who have hearned less than $50,000 or more than $90,000] 
+
+<i> Solution <i>
