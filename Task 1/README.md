@@ -3,8 +3,7 @@
 
 <i> Solution:
 
-Please check the .sql file for the code and below link for interactive tableau visualization:
-https://public.tableau.com/profile/saikat.omar.khan#!/vizhome/Task1SNT/Task1SNT?publish=yes 
+Please check the .sql file for the code and below link for [interactive tableau visualization] (https://public.tableau.com/profile/saikat.omar.khan#!/vizhome/Task1SNT/Task1SNT?publish=yes) 
 
 The tableau chart is the representation number of employees joined each year as a cumulative value. 
 
