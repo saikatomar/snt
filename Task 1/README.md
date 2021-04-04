@@ -7,5 +7,9 @@ Please check the .sql file for the code and below link for [interactive tableau 
 
 The tableau chart is the representation number of employees joined each year as a cumulative value. 
 
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+| Do | Don't | Text |
+
 
 
