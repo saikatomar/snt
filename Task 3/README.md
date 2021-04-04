@@ -8,4 +8,4 @@ In this solution we would need four columns; gender, department name, average sa
 
 Please check the .sql file for the code and below link for interactive tableau visualization:
 
-https://public.tableau.com/profile/saikat.omar.khan#!/vizhome/Task3snt/Task3snt?publish=yes
+[ **Click Here** ](https://public.tableau.com/profile/saikat.omar.khan#!/vizhome/Task3snt/Task3snt?publish=yes)
